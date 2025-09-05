@@ -1,0 +1,1 @@
+This repository contains the Mathematica code for analysing the mechanics (tensions and reaction forces) involved in draping Chebyshev nets over symmetric obstacles. Namely, we look at draping the paraboloid, the hyperbolic paraboloid and the sphere while applying boundary tensions and considering both cases where gravity is neglected and where it is included.
